@@ -1,3 +1,4 @@
 a line in local repository
 a line in remote repository
 trying conflict in remote
+trying conflict in local
